@@ -1,7 +1,7 @@
 ## Um prazer, sou o GianDutra
 
 - 🔭 Estudante de Engenharia de Software (PUC-CAMPINAS)
-- 🌱 Estudando kotlin/dart
+- 🌱 Estudando kotlin/dart/typescrypt
 - 📫 giandutra@hotmail.com.br
 
 <div align="center">
