@@ -21,6 +21,7 @@
   <img align="center" alt="Gian-Javascript" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Gian-Docker" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" >
   <img align="center" alt="Gian-Flutter" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Gian-MongoDB" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
   
 </div>
   
