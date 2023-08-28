@@ -1,7 +1,7 @@
 ## Um prazer, sou o GianDutra
 
 - 🔭 Estudante de Engenharia de Software (PUC-CAMPINAS)
-- 🌱 Estudando react.js (Aluno da Rocketseat)
+- 🌱 Estudando react.js | node.js(Aluno da Rocketseat)
 - 🌐 Meu portfólio: https://meu-portfolio-giandutra.vercel.app/
 - 📫 giandutra@hotmail.com.br
 
