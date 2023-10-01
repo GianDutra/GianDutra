@@ -4,6 +4,7 @@
 - 🌱 Estudando react.js | node.js(Aluno da Rocketseat)
 - 🌐 Meu portfólio: https://meu-portfolio-giandutra.vercel.app/
 - 📫 giandutra@hotmail.com.br
+- 🤖 Frameworks: Next.js e Nest.js
 
 <div align="center">
   <a href="https://github.com/GianDutra">
