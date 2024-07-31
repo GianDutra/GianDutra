@@ -2,7 +2,7 @@
 
 - 🔭 Estudante de Engenharia de Software (PUC-CAMPINAS)
 - 🌱 Estudando react.js | node.js(Aluno da Rocketseat)
-- 🌐 Meu portfólio: https://meu-portfolio-giandutra.vercel.app/
+- 🌐 Meu portfólio: https://meu-portfolio-giandutras-projects.vercel.app/
 - 📫 giandutra@hotmail.com.br
 - 🤖 Frameworks: Next.js e Nest.js
 
