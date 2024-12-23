@@ -1,10 +1,9 @@
 ## Um prazer, sou o GianDutra
 
-- 🔭 Estudante de Engenharia de Software (PUC-CAMPINAS)
-- 🌱 Estudando react.js | node.js(Aluno da Rocketseat)
-- 🌐 Meu portfólio: https://meu-portfolio-giandutras-projects.vercel.app/
+- 🔭 Engenheiro de Software graduado pela PUC-Campinas
+- 🌱 Criação de modelos de machine learning, algoritmos, API's e websites.
+- 🌐 Meu portfólio: [https://meu-portfolio-giandutras-projects.vercel.app/](https://meu-portfolio-giandutras-projects.vercel.app/)
 - 📫 giandutra@hotmail.com.br
-- 🤖 Frameworks: Next.js e Nest.js
 
 <div align="center">
   <a href="https://github.com/GianDutra">
