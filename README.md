@@ -1,9 +1,7 @@
 ## Um prazer, sou o GianDutra
 
-- 🔭 Engenheiro de Software graduado pela PUC-Campinas
 - 🌱 Criação de modelos de machine learning, algoritmos, API's e websites.
 - 🌐 Meu portfólio: [https://meu-portfolio-giandutras-projects.vercel.app/](https://meu-portfolio-giandutras-projects.vercel.app/)
-- 📫 giandutra@hotmail.com.br
 
 <div align="center">
   <a href="https://github.com/GianDutra">
