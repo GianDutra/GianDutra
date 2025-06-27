@@ -1,4 +1,4 @@
-## Um prazer, sou o GianDutra
+## Um prazer, sou o Gian
 
 - 🌱 Criação de modelos de machine learning, algoritmos, API's e websites.
 - 🌐 Meu portfólio: [https://meu-portfolio-giandutras-projects.vercel.app/](https://meu-portfolio-giandutras-projects.vercel.app/)
