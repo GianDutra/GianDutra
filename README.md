@@ -1,6 +1,6 @@
 ## Um prazer, sou o Gian
 
-- 🌱 Criação de modelos de machine learning, algoritmos, API's e websites.
+- 🌱 Engenheiro de Dados Certificado pela Microsoft & Databricks
 - 🌐 Meu portfólio: [https://meu-portfolio-giandutras-projects.vercel.app/](https://meu-portfolio-giandutras-projects.vercel.app/)
 
 <div align="center">
